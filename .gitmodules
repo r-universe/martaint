@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "InterCellar"]
 	path = InterCellar
 	url = https://github.com/martaint/intercellar
-	shallow = true
-	registered = true
